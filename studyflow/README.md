@@ -6,7 +6,7 @@ Frontend only: no API, `fetch`, database or authentication. All data is local Ja
 
 - **Live site:** https://studyflow-ass.vercel.app
 - **Video walkthrough (3-5 min):**https://youtu.be/jH4ZmWkTjTI
-- **GitHub:** _add your repository URL here_
+- **GitHub:**https://github.com/seberaisimbiangethressy-creator/studyflow
 
 ## Run it
 
