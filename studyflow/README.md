@@ -5,7 +5,7 @@ Four connected pages (Dashboard, Tasks, Focus, Settings) share one header, navig
 Frontend only: no API, `fetch`, database or authentication. All data is local JavaScript plus `localStorage`.
 
 - **Live site:** https://studyflow-ass.vercel.app
-- **Video walkthrough (3-5 min):** _add your video URL here_
+- **Video walkthrough (3-5 min):**https://youtu.be/jH4ZmWkTjTI
 - **GitHub:** _add your repository URL here_
 
 ## Run it
