@@ -4,7 +4,7 @@ A responsive study-planning website built with **React 19, React Router DOM, Vit
 Four connected pages (Dashboard, Tasks, Focus, Settings) share one header, navigation and page container.
 Frontend only: no API, `fetch`, database or authentication. All data is local JavaScript plus `localStorage`.
 
-- **Live site:** _add your Vercel/Netlify URL here_
+- **Live site:** https://studyflow-ass.vercel.app
 - **Video walkthrough (3-5 min):** _add your video URL here_
 - **GitHub:** _add your repository URL here_
 
